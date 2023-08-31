@@ -51,7 +51,7 @@
 
 <!-- Provide a purpose of the OER, including how the material is intended to be used and who the intended audience of the material is for. --> Providing the intended use for the educational materials could improve efficiency when educators are looking for materials that align with their needs in addition to preventing the OER being used unacceptably.
 
-##Material Covered
+## Material Covered
 
 <!-- Provide a link to the learning objectives and the lesson plan(s). --> Providing the specifics for the learning objectives and lesson plans could improve efficiency when educators are looking for materials that align with their needs.
   
